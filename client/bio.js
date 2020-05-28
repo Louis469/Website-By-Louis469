@@ -1,1 +1,1 @@
-let name = alert("Whats your name???");
+let name = prompt("Whats your name???");
